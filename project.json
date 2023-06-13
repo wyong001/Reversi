@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.6",
+  "name": "Reversi",
+  "id": "faa8a6c3-01f2-4881-85bd-54d3447c09bf",
+  "isNew": false
+}
